@@ -1,0 +1,1 @@
+chrome-extension://afgbccjghcnbcdjgogpckamibfkceahd/clearly/highlight/highlight.js

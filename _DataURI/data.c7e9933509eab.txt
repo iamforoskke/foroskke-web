@@ -1,0 +1,1 @@
+chrome-extension://afgbccjghcnbcdjgogpckamibfkceahd/content/require/checkSimSearch.js

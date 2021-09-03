@@ -1,0 +1,1 @@
+chrome-extension://afgbccjghcnbcdjgogpckamibfkceahd/skitch/js/skitch.js

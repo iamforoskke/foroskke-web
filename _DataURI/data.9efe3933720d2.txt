@@ -1,0 +1,1 @@
+chrome-extension://afgbccjghcnbcdjgogpckamibfkceahd/content/tooltips/custom_tooltip_check.js
